@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'registerationform.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME':  'student',
+        'NAME':  'register',
         'USER':'root',
         'PASSWORD':'variaveedu',
         'HOST':'localhost'
